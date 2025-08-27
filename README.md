@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
 <h3 align="center">A passionate frontend developer and designer from London</h3>
 
-- 🔭 I’m currently working on [WiredVibe AI](https://wiredvibeapp.com)
+- 🔭 I’m currently working on [AKY X](https://akyx.digital)
 
 - 👨‍💻 All of my projects are available at [https://vladalecu.com](https://vladalecu.com)
 
