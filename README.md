@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://vladalecu.com](https://vladalecu.com)
 
-- 📫 How to reach me **vlad@wiredvibe.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
